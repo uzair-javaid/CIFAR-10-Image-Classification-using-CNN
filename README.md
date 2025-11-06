@@ -63,17 +63,6 @@ Sample output:
 
 ---
 
-## 🧪 How to Run
-
-### ▶️ On Your Computer
-
-```bash
-pip install tensorflow numpy matplotlib
-python cifar10_image_classification.py
-python predict_cifar10.py
-```
-
-
 ## 🔍 Prediction Example
 
 Random test image prediction output:
